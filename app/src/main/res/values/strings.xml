@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EasyBeasy</string>
+
+    <string-array name="spn_servicos">
+        <item>Pintor</item>
+        <item>Eletricista</item>
+        <item>Encanador</item>
+        <item>Jardinagem</item>
+        <item>Vidraceiro</item>
+        <item>Detetizador</item>
+        <item>Diarista</item>
+        <item>GoGoBoy</item>
+    </string-array>
+    <string name="title_activity_login">EasyBeasy</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Logar ou Cadastrar</string>
+    <string name="action_sign_in_short">Logar</string>
+    <string name="welcome">"Bem Vindo !"</string>
+    <string name="invalid_username">Usuario invalido</string>
+    <string name="invalid_password">Senha deve possuir 6 ou + caracteres</string>
+    <string name="login_failed">"Falha no Login"</string>
+</resources>
